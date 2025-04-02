@@ -1,0 +1,159 @@
+{
+    "name": "Fábio Medeiros",
+    "contacts": {
+        "linkedin": "https://www.linkedin.com/in/fabiomedeirosdev/",
+        "github": "https://github.com/FabioMedeiros1000",
+        "portfolio": "https://www.fabiomedeirosdev.com/",
+        "phone": "82 99187-1637",
+        "email": "contato@fabiomedeirosdev.com",
+        "location": "Marechal Deodoro – Alagoas"
+    },
+    "title": "Desenvolvedor Front-End | React",
+    "summary": "Profissional em ascensão na área de tecnologia, com experiência em desenvolvimento de soluções IoT, programação para microcontroladores (Arduino e ESP32), algoritmos e criação de interfaces inteligentes.",
+    "skills": {
+        "frontend": [
+            "HTML5",
+            "CSS3",
+            "JavaScript (ES6+)",
+            "React.js",
+            "Next.js",
+            "Vue.js"
+        ],
+        "backend": [
+            "Node.js",
+            "Express",
+            "Construção de API"
+        ],
+        "state_management": [
+            "React Hooks",
+            "Redux",
+            "Redux Toolkit Query"
+        ],
+        "databases": [
+            "PostgreSQL",
+            "MySQL"
+        ],
+        "orm": [
+            "Prisma"
+        ],
+        "containers": [
+            "Docker"
+        ],
+        "testing": [
+            "Jest",
+            "Cypress",
+            "React Testing Library"
+        ],
+        "automation": [
+            "Gulp",
+            "Grunt",
+            "Parcel"
+        ],
+        "styling": [
+            "SASS",
+            "LESS",
+            "CSS Modules",
+            "Styled-Components",
+            "Bootstrap",
+            "CSS Responsivo"
+        ],
+        "version_control": [
+            "Git",
+            "GitHub"
+        ],
+        "typing": [
+            "TypeScript"
+        ]
+    },
+    "education": [
+        {
+            "course": "Desenvolvedor Front-End",
+            "institution": "EBAC",
+            "type": "Curso livre profissionalizante",
+            "period": "05/2024 - 12/2024"
+        },
+        {
+            "course": "Ciência de Dados e Inteligência Artificial",
+            "institution": "PUCRS",
+            "type": "Pós-Graduação",
+            "period": "03/2022 - 03/2023"
+        },
+        {
+            "course": "Engenharia Mecatrônica",
+            "institution": "UNIT-AL (UNIMA)",
+            "type": "Graduação",
+            "period": "02/2017 - 02/2022"
+        }
+    ],
+    "certifications": [
+        "Node.js: Criptografia e tokens JWT - Alura - 2025",
+        "Imersão Front-end 2ª edição - Alura - 2025",
+        "Formação Full stack JavaScript: crie um projeto com React e Node.js – Alura – 2025",
+        "Curso Next.js: Gerando site estático com SSG – Alura – 2024",
+        "Curso Docker: criando e gerenciando containers – Alura – 2024"
+    ],
+    "projects": [
+        {
+            "name": "Code-Connect",
+            "date": "02/2025",
+            "description": "Aplicação para exibir posts sobre programação",
+            "technologies": [
+                "Next.js",
+                "PostgreSQL",
+                "Prisma",
+                "Docker",
+                "CSS Modules"
+            ]
+        },
+        {
+            "name": "E-food",
+            "date": "11/2024",
+            "description": "Loja online para explorar restaurantes e pratos",
+            "technologies": [
+                "React",
+                "Styled-components",
+                "React Router DOM",
+                "Redux"
+            ]
+        },
+        {
+            "name": "Agenda de Contatos",
+            "date": "09/2024",
+            "description": "Aplicação web para gerenciamento de contatos",
+            "technologies": [
+                "React",
+                "Styled-components",
+                "Redux",
+                "TypeScript"
+            ]
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "SEBRAE",
+            "location": "Maceió/Alagoas",
+            "period": "03/2024 - 05/2024",
+            "role": "Analista de Pesquisa de Mercado - Trainee",
+            "tasks": [
+                "Conduzi estudos para identificar novas oportunidades de negócios no laboratório maker",
+                "Elaborei e executei projetos de fabricação digital, incluindo corte a laser e impressão 3D",
+                "Participei de reuniões e eventos realizados pelo SEBRAE"
+            ]
+        },
+        {
+            "company": "IFAL",
+            "location": "Marechal Deodoro/Alagoas",
+            "period": "11/2023 - 12/2023",
+            "role": "Instrutor do Curso IoT Maker",
+            "tasks": [
+                "Desenvolvi materiais didáticos e conduzi aulas",
+                "Orientei os alunos a construir projetos práticos com Arduino e ESP-32"
+            ]
+        }
+    ],
+    "languages": {
+        "portuguese": "Nativo",
+        "english": "Intermediário"
+    },
+    "history": "Eu me chamo Fábio. Comecei minha carreira na Engenharia Mecatrônica em 2017, quando ingressei na faculdade. Concluí o curso em 2022, mas enfrentei dificuldades para encontrar oportunidades nesse ramo de atuação no meu estado natal, Alagoas. Diante desse cenário, decidi migrar para a área de TI em 2022, iniciando uma pós-graduação em Ciência de Dados e Inteligência Artificial. Apesar de concluir a especialização e achar o tema muito interessante, percebi que o mercado estava mais voltado para profissionais com experiência prévia, o que dificultava a inserção de novos talentos. Além disso, tive duas experiências profissionais que não estavam relacionadas à área, pois precisava me manter financeiramente e continuar no mercado de trabalho. Com o tempo, minha ambição de atuar como cientista de dados foi se esvaindo. Após minha última experiência profissional, que não foi muito satisfatória, percebi que sou um profissional com um perfil bastante técnico e uma grande paixão pela programação. Após um período de reflexão, decidi me tornar programador, mais especificamente desenvolvedor front-end. Desde maio de 2024, venho explorando diversas tecnologias, inclusive algumas voltadas para o back-end, e construindo vários projetos. Possuo experiência em construir interfaces modernas e responsivas utilizando HTML5, CSS3, JavaScript (ES6+), React.js e Next.js. Desenvolvi projetos com foco em usabilidade e performance. Valorizo a atenção aos detalhes, adaptabilidade e planejamento estratégico para entregar soluções eficientes. Minha capacidade analítica, senso crítico e trabalho em equipe me permitem resolver problemas complexos e gerar soluções criativas. Gosto de entregar código de qualidade e mantenho um processo de aprendizado contínuo."
+}
